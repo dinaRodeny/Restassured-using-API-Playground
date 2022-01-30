@@ -1,0 +1,67 @@
+{
+  "total": 21,
+  "limit": 10,
+  "skip": 0,
+  "data": [
+    {
+      "id": 1,
+      "name": "Geek ",
+      "createdAt": "2016-11-17T17:56:35.881Z",
+      "updatedAt": "2016-11-17T17:56:35.881Z"
+    },
+    {
+      "id": 2,
+      "name": "Best Buy Mobile",
+      "createdAt": "2016-11-17T17:56:35.881Z",
+      "updatedAt": "2016-11-17T17:56:35.881Z"
+    },
+    {
+      "id": 3,
+      "name": "Best Buy For Business",
+      "createdAt": "2016-11-17T17:56:35.881Z",
+      "updatedAt": "2016-11-17T17:56:35.881Z"
+    },
+    {
+      "id": 4,
+      "name": "Apple Shop",
+      "createdAt": "2016-11-17T17:56:35.881Z",
+      "updatedAt": "2016-11-17T17:56:35.881Z"
+    },
+    {
+      "id": 5,
+      "name": "Hablamos Español",
+      "createdAt": "2016-11-17T17:56:35.881Z",
+      "updatedAt": "2016-11-17T17:56:35.881Z"
+    },
+    {
+      "id": 6,
+      "name": "Camera Experience Shop ",
+      "createdAt": "2016-11-17T17:56:35.881Z",
+      "updatedAt": "2016-11-17T17:56:35.881Z"
+    },
+    {
+      "id": 7,
+      "name": "Electronics Recycling",
+      "createdAt": "2016-11-17T17:56:35.881Z",
+      "updatedAt": "2016-11-17T17:56:35.881Z"
+    },
+    {
+      "id": 8,
+      "name": "Magnolia Home Theater",
+      "createdAt": "2016-11-17T17:56:35.881Z",
+      "updatedAt": "2016-11-17T17:56:35.881Z"
+    },
+    {
+      "id": 9,
+      "name": "Samsung Experience Shop",
+      "createdAt": "2016-11-17T17:56:35.881Z",
+      "updatedAt": "2016-11-17T17:56:35.881Z"
+    },
+    {
+      "id": 10,
+      "name": "Windows Store",
+      "createdAt": "2016-11-17T17:56:35.881Z",
+      "updatedAt": "2016-11-17T17:56:35.881Z"
+    }
+  ]
+}

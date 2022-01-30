@@ -1,0 +1,429 @@
+{
+  "total": 51956,
+  "limit": 10,
+  "skip": 0,
+  "data": [
+    {
+      "id": 43900,
+      "name": "Duracell - AAA Batteries (4-Pack)",
+      "type": "HardGood",
+      "price": 5.49,
+      "upc": "041333424019",
+      "shipping": 0,
+      "description": "Compatible with select electronic devices; AAA size; DURALOCK Power Preserve technology; 4-pack",
+      "manufacturer": "Duracell",
+      "model": "MN2400B4Z",
+      "url": "http://www.bestbuy.com/site/duracell-aaa-batteries-4-pack/43900.p?id=1051384074145&skuId=43900&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/4390/43900_sa.jpg",
+      "createdAt": "2016-11-17T17:58:03.298Z",
+      "updatedAt": "2016-11-17T17:58:03.298Z",
+      "categories": [
+        {
+          "id": "abcat0208002",
+          "name": "Alkaline Batteries",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat248700050021",
+          "name": "Housewares",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat303600050001",
+          "name": "Household Batteries",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat312300050015",
+          "name": "Connected Home & Housewares",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": 127687,
+      "name": "Duracell - AA Batteries (8-Pack)",
+      "type": "HardGood",
+      "price": 7.49,
+      "upc": "041333825014",
+      "shipping": 0,
+      "description": "Compatible with select electronic devices; AA size; DURALOCK Power Preserve technology; 8-pack",
+      "manufacturer": "Duracell",
+      "model": "MN1500B8Z",
+      "url": "http://www.bestbuy.com/site/duracell-aa-batteries-8-pack/127687.p?id=1051384045676&skuId=127687&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/1276/127687_sa.jpg",
+      "createdAt": "2016-11-17T17:58:03.298Z",
+      "updatedAt": "2016-11-17T17:58:03.298Z",
+      "categories": [
+        {
+          "id": "abcat0208002",
+          "name": "Alkaline Batteries",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat248700050021",
+          "name": "Housewares",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat303600050001",
+          "name": "Household Batteries",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat312300050015",
+          "name": "Connected Home & Housewares",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": 150115,
+      "name": "Energizer - MAX Batteries AA (4-Pack)",
+      "type": "HardGood",
+      "price": 4.99,
+      "upc": "039800011329",
+      "shipping": 0,
+      "description": "4-pack AA alkaline batteries; battery tester included",
+      "manufacturer": "Energizer",
+      "model": "E91BP-4",
+      "url": "http://www.bestbuy.com/site/energizer-max-batteries-aa-4-pack/150115.p?id=1051384046217&skuId=150115&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/1501/150115_sa.jpg",
+      "createdAt": "2016-11-17T17:58:03.298Z",
+      "updatedAt": "2016-11-17T17:58:03.298Z",
+      "categories": [
+        {
+          "id": "abcat0208002",
+          "name": "Alkaline Batteries",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat248700050021",
+          "name": "Housewares",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat303600050001",
+          "name": "Household Batteries",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat312300050015",
+          "name": "Connected Home & Housewares",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": 185230,
+      "name": "Duracell - C Batteries (4-Pack)",
+      "type": "HardGood",
+      "price": 8.99,
+      "upc": "041333440019",
+      "shipping": 0,
+      "description": "Compatible with select electronic devices; C size; DURALOCK Power Preserve technology; 4-pack",
+      "manufacturer": "Duracell",
+      "model": "MN1400R4Z",
+      "url": "http://www.bestbuy.com/site/duracell-c-batteries-4-pack/185230.p?id=1051384046486&skuId=185230&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/1852/185230_sa.jpg",
+      "createdAt": "2016-11-17T17:58:03.298Z",
+      "updatedAt": "2016-11-17T17:58:03.298Z",
+      "categories": [
+        {
+          "id": "abcat0208002",
+          "name": "Alkaline Batteries",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat248700050021",
+          "name": "Housewares",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat303600050001",
+          "name": "Household Batteries",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat312300050015",
+          "name": "Connected Home & Housewares",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": 185267,
+      "name": "Duracell - D Batteries (4-Pack)",
+      "type": "HardGood",
+      "price": 9.99,
+      "upc": "041333430010",
+      "shipping": 0,
+      "description": "Compatible with select electronic devices; D size; DURALOCK Power Preserve technology; 4-pack",
+      "manufacturer": "Duracell",
+      "model": "MN1300R4Z",
+      "url": "http://www.bestbuy.com/site/duracell-d-batteries-4-pack/185267.p?id=1051384046551&skuId=185267&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/1852/185267_sa.jpg",
+      "createdAt": "2016-11-17T17:58:03.298Z",
+      "updatedAt": "2016-11-17T17:58:03.298Z",
+      "categories": [
+        {
+          "id": "abcat0208002",
+          "name": "Alkaline Batteries",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat248700050021",
+          "name": "Housewares",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat303600050001",
+          "name": "Household Batteries",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat312300050015",
+          "name": "Connected Home & Housewares",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": 309062,
+      "name": "Pioneer - 4\" 3-Way Surface-Mount Speakers with IMPP Composite Cones (Pair) - Black",
+      "type": "HardGood",
+      "price": 144.99,
+      "upc": "012562165141",
+      "shipping": 0,
+      "description": "80W maximum power (20W RMS); 4\" IMPP composite cone woofer; 3/4\" horn tweeter",
+      "manufacturer": "Pioneer",
+      "model": "TS-X200",
+      "url": "http://www.bestbuy.com/site/pioneer-4-3-way-surface-mount-speakers-with-impp-composite-cones-pair-black/309062.p?id=1218643240258&skuId=309062&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/0309/0309062_sa.jpg",
+      "createdAt": "2016-11-17T17:58:03.298Z",
+      "updatedAt": "2016-11-17T17:58:03.298Z",
+      "categories": [
+        {
+          "id": "abcat0300000",
+          "name": "Car Electronics & GPS",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0302000",
+          "name": "Car Audio",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "abcat0302005",
+          "name": "Car Speakers",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat360500050015",
+          "name": "4\" Car Speakers",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        }
+      ]
+    },
+    {
+      "id": 312290,
+      "name": "Duracell - 9V Batteries (2-Pack)",
+      "type": "HardGood",
+      "price": 7.99,
+      "upc": "041333216010",
+      "shipping": 0,
+      "description": "Compatible with select electronic devices; alkaline chemistry; 9V size; DURALOCK Power Preserve technology; 2-pack",
+      "manufacturer": "Duracell",
+      "model": "MN1604B2Z",
+      "url": "http://www.bestbuy.com/site/duracell-9v-batteries-2-pack/312290.p?id=1051384050321&skuId=312290&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/3122/312290_sa.jpg",
+      "createdAt": "2016-11-17T17:58:03.298Z",
+      "updatedAt": "2016-11-17T17:58:03.298Z",
+      "categories": [
+        {
+          "id": "abcat0208002",
+          "name": "Alkaline Batteries",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat248700050021",
+          "name": "Housewares",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat303600050001",
+          "name": "Household Batteries",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat312300050015",
+          "name": "Connected Home & Housewares",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": 333179,
+      "name": "Energizer - N Cell E90 Batteries (2-Pack)",
+      "type": "HardGood",
+      "price": 5.99,
+      "upc": "039800013200",
+      "shipping": 0,
+      "description": "Alkaline batteries; 1.5V",
+      "manufacturer": "Energizer",
+      "model": "E90BP-2",
+      "url": "http://www.bestbuy.com/site/energizer-n-cell-e90-batteries-2-pack/333179.p?id=1185268509951&skuId=333179&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/3331/333179_sa.jpg",
+      "createdAt": "2016-11-17T17:58:03.298Z",
+      "updatedAt": "2016-11-17T17:58:03.298Z",
+      "categories": [
+        {
+          "id": "abcat0208006",
+          "name": "Specialty Batteries",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat248700050021",
+          "name": "Housewares",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat303600050001",
+          "name": "Household Batteries",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat312300050015",
+          "name": "Connected Home & Housewares",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        }
+      ]
+    },
+    {
+      "id": 346575,
+      "name": "Metra - Radio Installation Dash Kit for Most 1989-2000 Ford, Lincoln & Mercury Vehicles - Black",
+      "type": "HardGood",
+      "price": 16.99,
+      "upc": "086429002757",
+      "shipping": 0,
+      "description": "From our expanded online assortment; compatible with most 1989-2000 Ford, Lincoln and Mercury vehicles; snap-in TurboKit offers fast installation; spacer/trim ring; rear support bracket",
+      "manufacturer": "Metra",
+      "model": "99-5512",
+      "url": "http://www.bestbuy.com/site/metra-radio-installation-dash-kit-for-most-1989-2000-ford-lincoln-mercury-vehicles-black/346575.p?id=1218118704590&skuId=346575&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/3465/346575_rc.jpg",
+      "createdAt": "2016-11-17T17:58:03.298Z",
+      "updatedAt": "2016-11-17T17:58:03.298Z",
+      "categories": [
+        {
+          "id": "abcat0300000",
+          "name": "Car Electronics & GPS",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat165900050023",
+          "name": "Car Installation Parts & Accessories",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat165900050031",
+          "name": "Deck Installation Parts",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat165900050033",
+          "name": "Dash Installation Kits",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat331600050007",
+          "name": "Car Audio Installation Parts",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        }
+      ]
+    },
+    {
+      "id": 346646,
+      "name": "Metra - Radio Dash Multikit for Select GM Vehicles - Black",
+      "type": "HardGood",
+      "price": 16.99,
+      "upc": "086429003273",
+      "shipping": 0,
+      "description": "From our expanded online assortment; compatible with select GM vehicles; plastic material",
+      "manufacturer": "Metra",
+      "model": "99-4500",
+      "url": "http://www.bestbuy.com/site/metra-radio-dash-multikit-for-select-gm-vehicles-black/346646.p?id=1210376657731&skuId=346646&cmp=RMXCC",
+      "image": "http://img.bbystatic.com/BestBuy_US/images/products/3466/346646_rc.jpg",
+      "createdAt": "2016-11-17T17:58:03.298Z",
+      "updatedAt": "2016-11-17T17:58:03.298Z",
+      "categories": [
+        {
+          "id": "abcat0300000",
+          "name": "Car Electronics & GPS",
+          "createdAt": "2016-11-17T17:57:04.285Z",
+          "updatedAt": "2016-11-17T17:57:04.285Z"
+        },
+        {
+          "id": "pcmcat165900050023",
+          "name": "Car Installation Parts & Accessories",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat165900050031",
+          "name": "Deck Installation Parts",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat165900050033",
+          "name": "Dash Installation Kits",
+          "createdAt": "2016-11-17T17:57:05.399Z",
+          "updatedAt": "2016-11-17T17:57:05.399Z"
+        },
+        {
+          "id": "pcmcat331600050007",
+          "name": "Car Audio Installation Parts",
+          "createdAt": "2016-11-17T17:57:04.643Z",
+          "updatedAt": "2016-11-17T17:57:04.643Z"
+        }
+      ]
+    }
+  ]
+}
